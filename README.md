@@ -1,3 +1,8 @@
+<style>
+  img{
+    margin:10px;
+  }
+</style>
 <h1 align="center">Hi 👋, I'm Arsh</h1>
 <h3 align="center">I'm a passionate student of technology and business. My journey so far has led me to explore various domains, from web development to programming languages.</h3>
 
