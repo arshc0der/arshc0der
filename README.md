@@ -51,7 +51,7 @@
       <img src="https://raw.githubusercontent.com/arshc0der/arshc0der/main/icons/tailwind-css.svg" width="38"/>
     </a>
   </div>
-
+  <br/>
   <!-- Backend -->
   <div style="margin-bottom:18px;padding:14px;border-radius:10px;background:#ffffff;border:1px solid #e5e7eb;">
     <strong style="font-size:16px;color: black;">⚙️ Backend</strong><br/><br/>
@@ -71,7 +71,7 @@
       <img src="https://raw.githubusercontent.com/arshc0der/arshc0der/main/icons/flask.svg" width="38"/>
     </a>
   </div>
-
+  <br/>
   <!-- Databases -->
   <div style="margin-bottom:18px;padding:14px;border-radius:10px;background:#ffffff;border:1px solid #e5e7eb;">
     <strong style="font-size:16px;color: black;">🛢️ Databases</strong><br/><br/>
@@ -91,7 +91,7 @@
       <img src="https://raw.githubusercontent.com/arshc0der/arshc0der/main/icons/sq-lite.svg" width="38"/>
     </a>
   </div>
-
+  <br/>
   <!-- Cloud & DevOps -->
   <div style="margin-bottom:18px;padding:14px;border-radius:10px;background:#ffffff;border:1px solid #e5e7eb;">
     <strong style="font-size:16px;color: black;">☁️ Cloud & DevOps</strong><br/><br/>
@@ -114,7 +114,7 @@
       <img src="https://raw.githubusercontent.com/arshc0der/arshc0der/main/icons/linux-original.svg" width="38"/>
     </a>
   </div>
-
+  <br/>
   <!-- AI / ML -->
   <div style="padding:14px;border-radius:10px;background:#ffffff;border:1px solid #e5e7eb;">
     <strong style="font-size:16px;color: black;">🤖 AI / ML</strong><br/><br/>
