@@ -131,8 +131,6 @@
 
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arshc0der&show_icons=true&locale=en&layout=compact" alt="arshc0der" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arshc0der&show_icons=true&locale=en" alt="arshc0der" /></p>
+<br/>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arshc0der&" alt="arshc0der" /></p>
