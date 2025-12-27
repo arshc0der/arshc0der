@@ -1,15 +1,14 @@
+<h1 align="center">Hi 👋, I'm Arsh</h1>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/arshc0der/arshc0der/refs/heads/main/banner/banner.png" alt="Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Arsh</h1>
+
 <h3 align="center">🚀 Tech Enthusiast | 💻 Full-Stack Developer | 🎯 Lifelong Learner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arshc0der&label=Profile%20views&color=0e75b6&style=flat" alt="arshc0der" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arshc0der" alt="arshc0der" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **AI, Cloud, Secuity Projects**
 
