@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/arshc0der/arshc0der/refs/heads/main/banner/banner.png" alt="Banner" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Arsh</h1>
 <h3 align="center">🚀 Tech Enthusiast | 💻 Full-Stack Developer | 🎯 Lifelong Learner</h3>
 
