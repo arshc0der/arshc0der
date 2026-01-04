@@ -7,6 +7,11 @@
 
 <h3 align="center">🚀 Tech Enthusiast | 💻 Full-Stack Developer | 🎯 Lifelong Learner</h3>
 
+<p align="center">
+  <!-- Minimal monochrome trophies (professional, no heavy colors) -->
+  <img src="https://github-profile-trophy.vercel.app/?username=arshc0der&theme=github&no-frame=true&column=8" alt="trophy" />
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arshc0der&label=Profile%20views&color=0e75b6&style=flat" alt="arshc0der" /> </p>
 
 
