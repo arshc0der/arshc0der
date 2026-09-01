@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arsh</h1>
+<h1 align="center">Hi 👋, I'm Arsh!</h1>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/arshc0der/arshc0der/refs/heads/main/banner/banner.png" alt="Banner" width="100%" />
