@@ -654,7 +654,9 @@ def footer():
 # --------------------------------------------------------------------------- #
 if __name__ == "__main__":
     print("building static assets ->", ASSETS)
-    hero()
+    import build_hero  # 3D globe hero (embeds assets/photo.* when present)
+
+    build_hero.hero()
     section("about", "01", "ABOUT", "whoami --verbose", CYAN)
     section("orbit", "02", "TECH CONSTELLATION", "40 tools · always in motion", VIOLET)
     section("arsenal", "03", "ARSENAL", "74 badges · all local", LIME)
