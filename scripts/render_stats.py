@@ -77,7 +77,7 @@ def render_stats(d):
     )
     b = [frame(W, h)]
     b.append(f'<text x="28" y="38" class="m" font-size="12" letter-spacing="2.5" fill="{MUTED}">GITHUB TELEMETRY</text>')
-    b.append(f'<text x="196" y="38" class="m" font-size="12" font-weight="700" fill="{CYAN}">@{esc(d.get("login", "arshc0der"))}</text>')
+    b.append(f'<text x="196" y="38" class="m" font-size="12" font-weight="700" fill="{CYAN}">@{esc(d.get("username", "arshc0der"))}</text>')
     b.append(f'<text x="{W - 28}" y="38" text-anchor="end" class="m" font-size="11.5" fill="{MUTED}">{esc(synced_label(d))}</text>')
     tw, th, gx, gy = 158, 100, 12, 12
     for i, (label, v, ico, col) in enumerate(tiles):
