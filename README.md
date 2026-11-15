@@ -19,13 +19,15 @@
 
 - 👨‍💻 All of my projects are available at [https://arshdev.in](https://arshdev.in/)
 
-<h3 align="left">Connect with me :</h3>
+
+<img src="assets/hero.svg" alt="Hi, I'm Arsh - Full-Stack Developer, Tech Enthusiast, Lifelong Learner" width="100%"/>
+<center>
 <a href="https://linkedin.com/in/arshmd"><img src="assets/social-linkedin.svg" alt="LinkedIn" height="52"/></a>
 <a href="https://www.youtube.com/@Code.ByArsh"><img src="assets/social-youtube.svg" alt="YouTube" height="52"/></a>
 <a href="https://www.hackerrank.com/arshc0der"><img src="assets/social-hackerrank.svg" alt="HackerRank" height="52"/></a>
 <a href="https://www.leetcode.com/arshc0der"><img src="assets/social-leetcode.svg" alt="LeetCode" height="52"/></a>
 <a href="https://arshdev.in/"><img src="assets/social-portfolio.svg" alt="Portfolio" height="52"/></a>
-
+</center>
 
 <img src="assets/section-about.svg" alt="About" width="100%"/>
 <img src="assets/about.svg" alt="whoami: Arsh, building AI, Cloud and Security projects. All projects at arshdev.in" width="100%"/>
