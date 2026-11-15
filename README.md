@@ -1,27 +1,6 @@
-<h1 align="center">Hi 👋, I'm Arsh!</h1>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/arshc0der/arshc0der/refs/heads/main/banner/banner.png" alt="Banner" width="100%" />
-</p>
-
-
-<h3 align="center">🚀 Tech Enthusiast | 💻 Full-Stack Developer | 🎯 Lifelong Learner</h3>
-
-<p align="center">
-  <!-- Minimal monochrome trophies (professional, no heavy colors) -->
-  <img src="https://github-profile-trophy.vercel.app/?username=arshc0der&theme=github&no-frame=true&column=8" alt="trophy" />
-</p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arshc0der&label=Profile%20views&color=0e75b6&style=flat" alt="arshc0der" /> </p>
-
-
-- 🔭 I’m currently working on **AI, Cloud, Secuity Projects**
-
-- 👨‍💻 All of my projects are available at [https://arshdev.in](https://arshdev.in/)
-
-
 <img src="assets/hero.svg" alt="Hi, I'm Arsh - Full-Stack Developer, Tech Enthusiast, Lifelong Learner" width="100%"/>
 <div align="center">
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=arshc0der&label=Profile%20views&color=0e75b6&style=flat" alt="arshc0der" /> </p>
 <a href="https://linkedin.com/in/arshmd"><img src="assets/social-linkedin.svg" alt="LinkedIn" height="52"/></a>
 <a href="https://www.youtube.com/@Code.ByArsh"><img src="assets/social-youtube.svg" alt="YouTube" height="52"/></a>
 <a href="https://www.hackerrank.com/arshc0der"><img src="assets/social-hackerrank.svg" alt="HackerRank" height="52"/></a>
