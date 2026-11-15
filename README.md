@@ -20,124 +20,51 @@
 - 👨‍💻 All of my projects are available at [https://arshdev.in](https://arshdev.in/)
 
 <h3 align="left">Connect with me :</h3>
-<p align="left">
-<a href="https://linkedin.com/in/arshmd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arshmd" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@Code.ByArsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="code.byarsh" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/arshc0der" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="arshmd" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/arshc0der" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arshmd" height="30" width="40" /></a>
-</p>
+<a href="https://linkedin.com/in/arshmd"><img src="assets/social-linkedin.svg" alt="LinkedIn" height="52"/></a>
+<a href="https://www.youtube.com/@Code.ByArsh"><img src="assets/social-youtube.svg" alt="YouTube" height="52"/></a>
+<a href="https://www.hackerrank.com/arshc0der"><img src="assets/social-hackerrank.svg" alt="HackerRank" height="52"/></a>
+<a href="https://www.leetcode.com/arshc0der"><img src="assets/social-leetcode.svg" alt="LeetCode" height="52"/></a>
+<a href="https://arshdev.in/"><img src="assets/social-portfolio.svg" alt="Portfolio" height="52"/></a>
 
-<h2>🧠 Skills & Technologies</h2>
 
-<div style="background:#f6f8fa;border:1px solid #d0d7de;border-radius:14px;padding:20px;">
+<img src="assets/section-about.svg" alt="About" width="100%"/>
+<img src="assets/about.svg" alt="whoami: Arsh, building AI, Cloud and Security projects. All projects at arshdev.in" width="100%"/>
 
-  <!-- Frontend -->
-  <div style="margin-bottom:18px;padding:14px;border-radius:10px;background:#ffffff;border:1px solid #e5e7eb;">
-    <strong style="font-size:16px;color: black;">🖥️ Frontend</strong><br/><br/>
-    <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank">
-      <img src="https://raw.githubusercontent.com/arshc0der/arshc0der/main/icons/html.svg" width="38"/>
-    </a>
-    <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank">
-      <img src="https://raw.githubusercontent.com/arshc0der/arshc0der/main/icons/css.svg" width="38"/>
-    </a>
-    <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank">
-      <img src="https://raw.githubusercontent.com/arshc0der/arshc0der/main/icons/javascript-original.svg" width="38"/>
-    </a>
-    <a href="https://www.typescriptlang.org/" target="_blank">
-      <img src="https://raw.githubusercontent.com/arshc0der/arshc0der/main/icons/typescript-original.svg" width="38"/>
-    </a>
-    <a href="https://react.dev/" target="_blank">
-      <img src="https://raw.githubusercontent.com/arshc0der/arshc0der/main/icons/react-original-wordmark.svg" width="38"/>
-    </a>
-    <a href="https://nextjs.org/" target="_blank">
-      <img src="https://raw.githubusercontent.com/arshc0der/arshc0der/main/icons/next-js.svg" width="38"/>
-    </a>
-    <a href="https://tailwindcss.com/" target="_blank">
-      <img src="https://raw.githubusercontent.com/arshc0der/arshc0der/main/icons/tailwind-css.svg" width="38"/>
-    </a>
-  </div>
-  <br/>
-  <!-- Backend -->
-  <div style="margin-bottom:18px;padding:14px;border-radius:10px;background:#ffffff;border:1px solid #e5e7eb;">
-    <strong style="font-size:16px;color: black;">⚙️ Backend</strong><br/><br/>
-    <a href="https://nodejs.org/" target="_blank">
-      <img src="https://raw.githubusercontent.com/arshc0der/arshc0der/main/icons/node-js.svg" width="38"/>
-    </a>
-    <a href="https://expressjs.com/" target="_blank">
-      <img src="https://raw.githubusercontent.com/arshc0der/arshc0der/main/icons/express-original-wordmark.svg" width="38"/>
-    </a>
-    <a href="https://www.python.org/" target="_blank">
-      <img src="https://raw.githubusercontent.com/arshc0der/arshc0der/main/icons/python-original.svg" width="38"/>
-    </a>
-    <a href="https://www.java.com/" target="_blank">
-      <img src="https://raw.githubusercontent.com/arshc0der/arshc0der/main/icons/java-original.svg" width="38"/>
-    </a>
-    <a href="https://flask.palletsprojects.com/" target="_blank">
-      <img src="https://raw.githubusercontent.com/arshc0der/arshc0der/main/icons/flask.svg" width="38"/>
-    </a>
-  </div>
-  <br/>
-  <!-- Databases -->
-  <div style="margin-bottom:18px;padding:14px;border-radius:10px;background:#ffffff;border:1px solid #e5e7eb;">
-    <strong style="font-size:16px;color: black;">🛢️ Databases</strong><br/><br/>
-    <a href="https://www.mongodb.com/" target="_blank">
-      <img src="https://raw.githubusercontent.com/arshc0der/arshc0der/main/icons/mongodb-original-wordmark.svg" width="38"/>
-    </a>
-    <a href="https://www.mysql.com/" target="_blank">
-      <img src="https://raw.githubusercontent.com/arshc0der/arshc0der/main/icons/mysql-original-wordmark.svg" width="38"/>
-    </a>
-    <a href="https://www.postgresql.org/" target="_blank">
-      <img src="https://raw.githubusercontent.com/arshc0der/arshc0der/main/icons/postgresql-original-wordmark.svg" width="38"/>
-    </a>
-    <a href="https://www.microsoft.com/sql-server" target="_blank">
-      <img src="https://raw.githubusercontent.com/arshc0der/arshc0der/main/icons/microsoft-sql-server.svg" width="38"/>
-    </a>
-    <a href="https://www.sqlite.org/" target="_blank">
-      <img src="https://raw.githubusercontent.com/arshc0der/arshc0der/main/icons/sq-lite.svg" width="38"/>
-    </a>
-  </div>
-  <br/>
-  <!-- Cloud & DevOps -->
-  <div style="margin-bottom:18px;padding:14px;border-radius:10px;background:#ffffff;border:1px solid #e5e7eb;">
-    <strong style="font-size:16px;color: black;">☁️ Cloud & DevOps</strong><br/><br/>
-    <a href="https://aws.amazon.com/" target="_blank">
-      <img src="https://raw.githubusercontent.com/arshc0der/arshc0der/main/icons/aws.svg" width="38"/>
-    </a>
-    <a href="https://cloud.google.com/" target="_blank">
-      <img src="https://raw.githubusercontent.com/arshc0der/arshc0der/main/icons/google-cloud.svg" width="38"/>
-    </a>
-    <a href="https://www.docker.com/" target="_blank">
-      <img src="https://raw.githubusercontent.com/arshc0der/arshc0der/main/icons/docker-original.svg" width="38"/>
-    </a>
-    <a href="https://www.nginx.com/" target="_blank">
-      <img src="https://raw.githubusercontent.com/arshc0der/arshc0der/main/icons/nginx-original.svg" width="38"/>
-    </a>
-    <a href="https://git-scm.com/" target="_blank">
-      <img src="https://raw.githubusercontent.com/arshc0der/arshc0der/main/icons/git.svg" width="38"/>
-    </a>
-    <a href="https://www.linux.org/" target="_blank">
-      <img src="https://raw.githubusercontent.com/arshc0der/arshc0der/main/icons/linux-original.svg" width="38"/>
-    </a>
-  </div>
-  <br/>
-  <!-- AI / ML -->
-  <div style="padding:14px;border-radius:10px;background:#ffffff;border:1px solid #e5e7eb;">
-    <strong style="font-size:16px;color: black;">🤖 AI / ML</strong><br/><br/>
-    <a href="https://www.tensorflow.org/" target="_blank">
-      <img src="https://raw.githubusercontent.com/arshc0der/arshc0der/main/icons/tensor-flow.svg" width="38"/>
-    </a>
-    <a href="https://scikit-learn.org/" target="_blank">
-      <img src="https://raw.githubusercontent.com/arshc0der/arshc0der/main/icons/sk-learn.svg" width="38"/>
-    </a>
-    <a href="https://pandas.pydata.org/" target="_blank">
-      <img src="https://raw.githubusercontent.com/arshc0der/arshc0der/main/icons/pandas-original.svg" width="38"/>
-    </a>
-  </div>
+<img src="assets/section-orbit.svg" alt="Tech constellation" width="100%"/>
+<img src="assets/orbit.svg" alt="Animated orbit of 40 technology icons" width="100%"/>
+
+<img src="assets/section-arsenal.svg" alt="Arsenal" width="100%"/>
+<img src="assets/stack-languages.svg" alt="Languages and markup: C, C++, HTML5, CSS3, JavaScript, TypeScript, Python, Java, PHP, Bash, AssemblyScript, GraphQL, Markdown" width="100%"/>
+<img src="assets/stack-frontend.svg" alt="Frontend and UI: Next.js, React Native, Vue.js, Vite, Redux, Context API, React Router, React Query, React Hook Form, Bootstrap, EJS" width="100%"/>
+<img src="assets/stack-backend.svg" alt="Backend and servers: Node.js, Express, NestJS, FastAPI, JWT, Nodemon, NPM, Kafka, Nginx, Apache, Gunicorn" width="100%"/>
+<img src="assets/stack-data-cloud.svg" alt="Databases: MongoDB, MySQL, SQL Server, SQLite, Redis, Prisma, Supabase, Firebase. Cloud: Google Cloud, Cloudflare, Vercel, Netlify, Render, DigitalOcean, Firebase" width="100%"/>
+<img src="assets/stack-devops.svg" alt="DevOps, testing and workflow: Docker, Kubernetes, GitHub Actions, Git, GitHub, Postman, Jira, Vitest, Testing Library, ESLint" width="100%"/>
+<img src="assets/stack-misc.svg" alt="Data science: Anaconda, Pandas, NumPy, SciPy, Matplotlib, scikit-learn. Design: Figma, Adobe XD, Canva, Framer, Inkscape. Hardware and graphics: Arduino, Raspberry Pi, OpenGL" width="100%"/>
+
+<img src="assets/section-featured.svg" alt="Featured build" width="100%"/>
+<a href="https://github.com/arshc0der/myOS"><img src="assets/myos.svg" alt="MyOS - a 32-bit x86 hobby operating system in C and assembly" width="100%"/></a>
+
+<img src="assets/section-telemetry.svg" alt="Telemetry" width="100%"/>
+<img src="assets/stats.svg" alt="GitHub statistics" width="100%"/>
+<img src="assets/languages.svg" alt="Most used languages" width="100%"/>
+<img src="assets/activity.svg" alt="Contribution heatmap" width="100%"/>
+
+<img src="assets/section-trophies.svg" alt="Trophy room" width="100%"/>
+<img src="assets/trophies.svg" alt="GitHub trophies" width="100%"/>
+
+<img src="assets/section-connect.svg" alt="Connect" width="100%"/>
+<img src="assets/quotes.svg" alt="Rotating developer notes" width="100%"/>
+
+<img src="assets/footer.svg" alt="Thanks for stopping by" width="100%"/>
 
 </div>
 
+
 <br/>
+<!--GitHub Stats -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arshc0der&show_icons=true&locale=en" alt="arshc0der" /></p>
+![](https://github-readme-stats.shion.dev/api?username=arshc0der&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=arshc0der&theme=ambient_gradient&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=arshc0der&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arshc0der&" alt="arshc0der" /></p>
+---
